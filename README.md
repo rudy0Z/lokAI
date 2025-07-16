@@ -50,15 +50,19 @@ pip install -r requirements.txt
 ```
 
 ### Running the App
+```
 - **Frontend (Next.js):**
   ```sh
 pnpm run dev
 ```
 ```
+```
 - **Backend (Python scripts):**
+```
   Run individual Python scripts as needed, e.g.:
   ```sh
 python utils/ai_agent.py
+```
 ```
 ```
 ## Configuration
