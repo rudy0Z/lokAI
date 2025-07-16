@@ -41,6 +41,7 @@ cd lokAI
    ```sh
 pnpm install
 ```
+```
 3. **Install Python dependencies:**
    ```sh
 pip install -r requirements.txt
