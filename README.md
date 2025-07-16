@@ -32,10 +32,12 @@ styles/             # Global CSS
 - pnpm (or npm/yarn)
 
 ### Installation
+```
 1. **Clone the repository:**
    ```sh
 git clone https://github.com/rudy0Z/lokAI.git
 cd lokAI
+```
 ```
 2. **Install Node dependencies:**
    ```sh
@@ -52,12 +54,13 @@ pip install -r requirements.txt
   ```sh
 pnpm run dev
 ```
+```
 - **Backend (Python scripts):**
   Run individual Python scripts as needed, e.g.:
   ```sh
 python utils/ai_agent.py
 ```
-
+```
 ## Configuration
 - Edit `config.py` for backend settings.
 - Edit `next.config.mjs` and `tailwind.config.ts` for frontend settings.
