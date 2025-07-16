@@ -68,15 +68,3 @@ python utils/ai_agent.py
 ## Configuration
 - Edit `config.py` for backend settings.
 - Edit `next.config.mjs` and `tailwind.config.ts` for frontend settings.
-
-## Contributing
-Pull requests and issues are welcome! Please follow conventional commit messages and document your code.
-
-## License
-MIT
-
-## Maintainers
-- [rudy0Z](https://github.com/rudy0Z)
-
----
-For more details, see the code comments and individual module documentation.
