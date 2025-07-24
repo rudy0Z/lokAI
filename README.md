@@ -142,5 +142,3 @@ The AI assistant can be customized through `lib/indian-legal-chain.ts`:
 - Response templates
 - Conversation flows
 - Suggestion algorithms
-
-## 🤝 Contributing
